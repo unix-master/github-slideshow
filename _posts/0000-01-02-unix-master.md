@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Oz is a labrador.
+Oz lives in Gurgaon, India.
 Use the left-arrow to go back.
 
